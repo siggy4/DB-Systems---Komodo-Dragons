@@ -2,7 +2,7 @@
 
 This is our DB Systems group: Komodo Dragons
 
-Project Name : Komodo Library System, A library management system for All Saints School.
+Project Name : Komodo Library System, A library management system for All Public Schools in Kenya.
 
 Team Members include;
 1. Chanteezy (Captain) - 192475
@@ -15,6 +15,5 @@ Team Members include;
 Project SDG: SDG 14 - Quality Education
 
 The system aims to ensure inclusive quality education. By automating the management of textbooks and reference materials, it ensures that students have organized and reliable access to learning resources.  
-The interaction with the digital library system promotes ICT skills among youth, aligning with the target to increase the number of people with relevant skills for employment and entrepreneurship.
-The system helps solve issues like high "search time" for materials and financial leakage from uncollected fines, which currently hinder the efficiency of public secondary school libraries.
+
 
